@@ -1,6 +1,6 @@
 <h1>the functions of this program</h1>
 
-•determine age by year of birth
+<h3>•determine age by year of birth</h3>
 •calculator
 •number identification
 •age calculation
