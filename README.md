@@ -18,5 +18,5 @@
 pip install -r requirements.txt
 
 
-<h3>[Telegram Channel]</h3>(https://t.me/Python_Koderuz)
-<h3>[Telegram Creator]</h3>(https://t.me/Python_Koders)
+<h3>[Telegram Channel](https://t.me/Python_Koderuz)</h3>
+<h3>[Telegram Creator](https://t.me/Python_Koders)</h3>
