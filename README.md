@@ -10,7 +10,7 @@
 
 
 
-<h2>install Python libraries</h2>
+<h1>install Python libraries</h1>
 
 
 
@@ -18,5 +18,5 @@
 pip install -r requirements.txt
 
 
-[Telegram Channel](https://t.me/Python_Koderuz)
-[Telegram Creator](https://t.me/Python_Koders)
+<h3>[Telegram Channel]</h3>(https://t.me/Python_Koderuz)
+<h3>[Telegram Creator]</h3>(https://t.me/Python_Koders)
