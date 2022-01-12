@@ -1,9 +1,9 @@
 <h1>the functions of this program</h1>
 
 <h3>•determine age by year of birth</h3>
-•calculator
-•number identification
-•age calculation
+<h3>•calculator</h3>
+<h3>•number identification</h3>
+<h3>•age calculation</h3>
 
 
 
